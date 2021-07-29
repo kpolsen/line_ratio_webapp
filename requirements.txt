@@ -16,7 +16,6 @@ entrypoints
 et-xmlfile
 fastcache
 forestci
-gmpy2
 h5py
 HeapDict
 imutils

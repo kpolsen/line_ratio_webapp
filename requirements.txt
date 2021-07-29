@@ -47,7 +47,6 @@ pkginfo==1.7.0
 ply==3.11
 pycosat==0.6.3
 pycurl==7.43.0.6
-pyodbc===4.0.0-unsupported
 pytest==6.2.3
 pyvo==1.1
 PyYAML==5.4.1

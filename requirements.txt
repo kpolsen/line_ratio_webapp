@@ -34,7 +34,6 @@ mkl-service==2.3.0
 mpmath==1.2.1
 multipledispatch==0.6.0
 mypy-extensions==0.4.3
-navigator-updater==0.2.1
 olefile==0.46
 opencv-python==4.5.2.54
 pandas==1.2.4
